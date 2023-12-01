@@ -53,6 +53,7 @@ var sliderContent = [
   "Plugin Development",
   "CRM Integrations"
 ];
+
 var slider = document.querySelector("#slider");
 var sliderValue = document.querySelector("#sliderValue");
 
