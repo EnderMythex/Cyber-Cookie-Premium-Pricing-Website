@@ -53,15 +53,6 @@ var sliderContent = [
   "Cyber Cookie Development",
   "The new Cyber Cookie extension"
 ];
-
-var sliderCounter = 0;
-var sliderContent = [
-  "Cyber Cookie Website",
-  "Cyber Cookie Extension",
-  "Cyber Cookie App Development",
-  "Cyber Cookie Development",
-  "The new Cyber Cookie extension"
-];
 var slider = document.querySelector("#slider");
 var sliderValue = document.querySelector("#sliderValue");
 
