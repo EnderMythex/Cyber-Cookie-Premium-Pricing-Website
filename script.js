@@ -54,6 +54,14 @@ var sliderContent = [
   "CRM Integrations"
 ];
 
+var sliderCounter = 0;
+var sliderContent = [
+  "Web Development",
+  "WordPress Development",
+  "App Development",
+  "Plugin Development",
+  "CRM Integrations"
+];
 var slider = document.querySelector("#slider");
 var sliderValue = document.querySelector("#sliderValue");
 
