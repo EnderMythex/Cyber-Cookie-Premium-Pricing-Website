@@ -47,20 +47,20 @@ document.body.addEventListener("pointermove", applyOverlayMask);
 
 var sliderCounter = 0;
 var sliderContent = [
-  "Web Development",
-  "WordPress Development",
-  "App Development",
-  "Plugin Development",
-  "CRM Integrations"
+  "Cyber Cookie Website",
+  "Cyber Cookie Extension",
+  "Cyber Cookie App Development",
+  "Cyber Cookie Development",
+  "The new Cyber Cookie extension"
 ];
 
 var sliderCounter = 0;
 var sliderContent = [
-  "Web Development",
-  "WordPress Development",
-  "App Development",
-  "Plugin Development",
-  "CRM Integrations"
+  "Cyber Cookie Website",
+  "Cyber Cookie Extension",
+  "Cyber Cookie App Development",
+  "Cyber Cookie Development",
+  "The new Cyber Cookie extension"
 ];
 var slider = document.querySelector("#slider");
 var sliderValue = document.querySelector("#sliderValue");
